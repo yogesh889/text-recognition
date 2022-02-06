@@ -17,4 +17,4 @@ Get Text is a simple cloud-enabled and mobile-ready program built using azure co
 - Easy to use and extract text from image.
 - User can convert extacted text to speech with one click.
 
-Django App is deployed on azure virtual machine, ip [52.142.60.253](http://13.82.216.191:8000/)
+Django App is deployed on azure virtual machine, ip [13.82.216.191](http://13.82.216.191:8000/) and url [http://frtproject5feb.eastus.cloudapp.azure.com:8000/](http://frtproject5feb.eastus.cloudapp.azure.com:8000/)
